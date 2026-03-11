@@ -1,6 +1,6 @@
 # 🌿 Rooted & Resilient: Devotional Tracker Prototype
 
-### **[🚀 Live Demo Link](INSERT_YOUR_STREAMLIT_URL_HERE)**
+### **[🚀 Live Demo Link](https://rooted-tracker-prototype-v001.streamlit.app/)**
 
 ## **Overview**
 This project is a high-speed technical prototype designed to bridge the gap between a **UX wireframe** and a **functional digital tool**. Developed as part of my portfolio for the **BBC AI Creative Lab**, it demonstrates the power of **AI-augmented rapid prototyping** in creating "artist-friendly" tools for digital wellness.
